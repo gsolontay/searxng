@@ -20,7 +20,7 @@ setup(
     name='searxng',
     python_requires=">=3.7",
     version=VERSION_TAG,
-    description="A privacy-respecting, hackable metasearch engine",
+    description="A privacy-respecting, hackable metasearch engine, customized by Georgy Solontay",
     long_description=long_description,
     url=get_setting('brand.docs_url'),
     project_urls={
